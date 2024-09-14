@@ -1,4 +1,4 @@
-# AHB-to-APB-Bridge-Design-
+# AHB-to-APB-Bridge-Design
 
 ## Overview
 
